@@ -24,4 +24,4 @@ Supports multiple locales
 - Requires server-side configuration for premium features
 - proper sql setup 
 
-## credits: Dr.Rebase - thx for the help!
+# credits: schell244 - thx for the help!
